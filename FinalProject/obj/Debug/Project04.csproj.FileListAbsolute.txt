@@ -1,0 +1,17 @@
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\bin\Project04.dll.config
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\bin\Project04.dll
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\bin\Project04.pdb
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\bin\EntityFramework.dll
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\bin\EntityFramework.SqlServer.dll
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\bin\Newtonsoft.Json.dll
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\bin\EntityFramework.xml
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\bin\EntityFramework.SqlServer.xml
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\bin\Newtonsoft.Json.pdb
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\bin\Newtonsoft.Json.xml
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\obj\Debug\Project04.csprojAssemblyReference.cache
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\obj\Debug\Project04.csproj.CoreCompileInputs.cache
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\obj\Debug\Project04.csproj.CopyComplete
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\obj\Debug\Project04.dll
+C:\Users\Justin.DESKTOP-TS7KCLT\Desktop\Project4\Project4-master\Project04\obj\Debug\Project04.pdb
